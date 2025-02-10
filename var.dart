@@ -1,5 +1,5 @@
 var name = 'Voyager I';
-var year = 1977;
+var year = 2025;
 var antennaDiameter = 3.7;
 var flybyObjects = [
   'Jupiter',
